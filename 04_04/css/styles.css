@@ -1,0 +1,15 @@
+.navbar {
+    background-color: blue;
+}
+
+.navbar a {
+  color: white;
+}
+
+.navbar-brand {
+  color: orangered;
+}
+
+.navbar-text {
+  color: white;
+}
